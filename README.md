@@ -2,7 +2,7 @@
 
 ## 📊 Dashboard
 
-![Dashboard de Análise de Vendas](dashboard.png)
+![Dashboard de Análise de Vendas](dashboardpng.png)
 
 ## 📌 Sobre o projeto
 
