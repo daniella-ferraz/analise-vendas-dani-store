@@ -1,5 +1,9 @@
 # 📊 Dani Store - Análise de Vendas
 
+## 📊 Dashboard
+
+![Dashboard de Análise de Vendas](dashboard.png)
+
 ## 📌 Sobre o projeto
 
 Este projeto apresenta uma análise de vendas da Dani Store, desenvolvida no Microsoft Excel com o objetivo de transformar dados de vendas em informações úteis para a tomada de decisões.
