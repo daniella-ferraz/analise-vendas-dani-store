@@ -33,6 +33,16 @@ Este projeto apresenta uma análise de vendas da Dani Store, desenvolvida no Mic
 - *Caderno* foi o produto com maior quantidade vendida, com *20 unidades*.
 - A maior venda analisada foi de um *Notebook, no valor de **R$ 6.000,00*.
 
+- ## 📌 Resultados e conclusão
+
+A análise permitiu identificar os principais resultados de vendas da Dani Store.
+
+São Paulo apresentou o maior faturamento entre as cidades analisadas, enquanto a categoria de Eletrônicos foi responsável pela maior parcela do faturamento.
+
+O dashboard facilita a visualização dos dados e pode auxiliar na identificação de oportunidades para melhorar as vendas e apoiar a tomada de decisões.
+
+Este projeto demonstra, na prática, a aplicação de conceitos de organização, análise e visualização de dados utilizando Microsoft Excel.
+
 ## 🎯 Objetivo
 
 Demonstrar a aplicação de conceitos de análise de dados utilizando Excel, apresentando informações de forma visual e facilitando a identificação de oportunidades para o negócio.
